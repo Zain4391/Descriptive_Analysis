@@ -1,0 +1,35 @@
+
+PATHOLOGY AI ANALYSIS SUMMARY REPORT
+==================================================
+
+OVERALL PERFORMANCE:
+   • Total Reports Analyzed: 100
+   • Overall Accuracy: 85.0%
+   • Average Terms Found: 5.2
+   • High Confidence Predictions: 48.0%
+
+ACCURACY BY CATEGORY:
+   • Benign: 100.0%
+   • Malignant: 89.4%
+   • Pre-malignant: 70.6%
+
+CONFIDENCE vs ACCURACY:
+   • High: 89.6% (n=48)
+   • Low: 74.4% (n=39)
+   • Moderate: 100.0% (n=13)
+
+TOP DIAGNOSTIC TERMS:
+   • carcinoma: 43 times
+   • inflammation: 19 times
+   • dysplasia: 15 times
+   • benign: 10 times
+   • pleomorphism: 5 times
+
+KEY INSIGHTS:
+   • Best performing category: Benign (100.0%)
+   • Most reliable confidence level: Moderate (100.0%)
+   • Average terms per report suggests good detection coverage
+   • High accuracy indicates strong model performance
+
+Detailed results saved in: analyzer_test_results.xlsx
+        
